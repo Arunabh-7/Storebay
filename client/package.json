@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8000/api",
+  "proxy": "http://localhost:8000",
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
     "@david.kucsai/react-pdf-table": "^0.3.0",
