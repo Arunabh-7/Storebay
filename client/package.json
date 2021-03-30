@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8000",
+  "proxy": "https://storebay.herokuapp.com/",
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
     "@david.kucsai/react-pdf-table": "^0.3.0",
